@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/media.css" />
+</head>
+<body>
+    <div class="text-center" style="background-color: coral; font-size: 25px;">Bootstrap</div>
+        <div class="row">
+            <div class="col py-sm-2 py-lg-4" style="background-color: cadetblue;">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quisquam tempore enim illo ea minus? Ducimus consequatur sit totam voluptatem magnam nam unde qui rerum, dicta ab nihil veniam animi.
+            </div>
+
+            <div class="col py-sm-2 py-lg-4" style="background-color: pink;">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quisquam tempore enim illo ea minus? Ducimus consequatur sit totam voluptatem magnam nam unde qui rerum, dicta ab nihil veniam animi.
+            </div>
+
+            <div class="col py-sm-5 py-lg-4" style="background-color: yellow;">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quisquam tempore enim illo ea minus? Ducimus consequatur sit totam voluptatem magnam nam unde qui rerum, dicta ab nihil veniam animi.
+            </div>
+
+            <div class="col py-sm-5 py-lg-4" style="background-color: violet;">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quisquam tempore enim illo ea minus? Ducimus consequatur sit totam voluptatem magnam nam unde qui rerum, dicta ab nihil veniam animi.
+            </div>
+            
+            <div class="col py-sm-5 py-lg-4" style="background-color: lightblue;">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quisquam tempore enim illo ea minus? Ducimus consequatur sit totam voluptatem magnam nam unde qui rerum, dicta ab nihil veniam animi.
+            </div>
+
+        </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
+</html>
 
